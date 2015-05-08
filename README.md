@@ -1,0 +1,2 @@
+# lassynode
+Node Project
